@@ -1,0 +1,8 @@
+h2 {
+    text-align: center;
+    font-size: 1.25rem;
+    color: var(--clr-orange);
+    background-color: var(--clr-blue);
+    padding: .75em 4em;
+    border-radius: 1em;
+}
